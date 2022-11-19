@@ -11,3 +11,7 @@
 5. Отправить свою версию на ГХ
 
 6. На сайте ГХ нажать кнопку Pull Request
+
+7. ***I love you***
+
+8. **You are only one for me**
